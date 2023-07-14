@@ -8,12 +8,12 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=yebin113&theme=vue&show_icons=true"/></a>
 </p>
-<h3 align="center"> 🛠 Coding Track🛠 </h3>
+<h3 align="center"> 💻 Coding Track 📝 </h3>
 <div align=center>	
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </div>
 <div align=center>	
-  <h3 align="center"> 🛠Design🛠 </h3>
+  <h3 align="center"> 🎨 Design 🐕 </h3>
 <img src=https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white/>
 <img src=https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white/>
 </div>
