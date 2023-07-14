@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <!--
 **yebin113/yebin113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
