@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=YEBIN👋&animation=twinkling&fontSize=70&fontAlignY=50&fontAlign=50&height=250)
-<h1 align="center"> Yun Yebin </h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=YEBIN👋&animation=twinkling&fontSize=70&fontAlignY=50&fontAlign=50&height=120)
+
 <div align=center>	
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyebin113&count_bg=%23D7D265&title_bg=%23252222&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
