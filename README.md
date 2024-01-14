@@ -16,10 +16,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 
-</div>
-<h3 align="center"> 💻 Baekjoon 📝 </h3>
-[![Solved.ac ybyb99](http://mazassumnida.wtf/api/generate_badge?boj=ybyb99)](https://solved.ac/ybyb99)
-<div align=center>	
   <h3 align="center"> 🎨 Design 🐕 </h3>
 <img src=https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white/>
 <img src=https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white/>
