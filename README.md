@@ -59,4 +59,4 @@
 ### **SSAFY 10기 공통 프로젝트 우수상**
 - 수상일자 : `2024.02.16`
 - 시상 단체 : 삼성 청년 SW 아카데미
-
+- github : [https://github.com/chipchippoker/chipchippoker](https://github.com/chipchippoker/chipchippoker)
