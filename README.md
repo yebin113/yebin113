@@ -71,9 +71,9 @@
 - 배포 : [idk.apk](https://drive.google.com/file/d/1Z6WpP71_LZiVNF9-aYQj6VPMxDlaKJQa/view?usp=sharing)
 - 기술 스택 : <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo&logo=React&logoColor=black"/><img src="https://img.shields.io/badge/Expo-000000?style=flat&logo=Expo&logoColor=white"/>
 - 담당 역할 :
-  - 로고 및 에셋 디자인
-  - UI, UX 및 CSS, 로딩 애니메이션
-  - 컴포넌트 모듈화
+  - **UI, UX 및 로고, Assets 디자인**
+  - **CSS, 로딩 애니메이션**
+  - **컴포넌트 모듈화**
   - 트러블 슈팅 기록
   - [FE] 비밀번호 검증
   - [FE] 입출금, 계좌 이체 기능
@@ -88,9 +88,9 @@
 - github : [칩칩포커](https://github.com/chipchippoker/chipchippoker)
 - 기술 스택 : <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 - 담당 역할 :
-  - UI, UX 및 로고, Assets 디자인
-  - CSS
-  - 컴포넌트 모듈화
+  - **UI, UX 및 로고, Assets 디자인**
+  - **CSS**
+  - **컴포넌트 모듈화**
   - 트러블 슈팅 기록
   - [FE] WebSocket을 이용한 실시간 서버 통신
   - [FE] 게임 기능
@@ -105,8 +105,8 @@
 - github : [README](https://github.com/yebin113/finprdtrecom)
 - 기술 스택 : <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/><img src="https://img.shields.io/badge/Django-0C9D58?style=flat&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white"/>
 - 담당 역할 :
-  - UI/UX 디자인, CSS
-  - [BE] 설문조사 기반 금융 상품 추천 알고리즘 API 개발
+  - **UI/UX 디자인, CSS**
+  - **[BE] 설문조사 기반 금융 상품 추천 알고리즘 API 개발**
   - [BE] 커뮤니티 CRUD API 개발
   - [FE] API 연동
   - [FE] 환율 계산기
@@ -122,7 +122,7 @@
 - 산출물 : [구글 드라이브](https://docs.google.com/presentation/d/1NotmtCaq_qCo-7PrHzcuQGNhykIHKxb0/edit?rtpof=true&sd=true)
 - 기술 스택 : <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Excel&logoColor=white"/><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
 - 담당 역할 :
-  - 파이썬과 엑셀을 이용한 데이터 전처리 및 분석
+  - **파이썬과 엑셀을 이용한 데이터 전처리 및 분석**
   - Matplotlib과 태블로우를 이용한 데이터 시각화
   
   
