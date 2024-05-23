@@ -10,14 +10,13 @@
 
 # 💻 My Skills 📝 
 ### FE 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+
 <br/>
-<img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Expo-000000?style=flat&logo=Expo&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
@@ -44,41 +43,36 @@
 <br/>
 
 # 🎓 Education
-<br/>
 
-|기간|이름|교육기관|
-|-|-|-|
-| 23.07.05 ~ **진행중** | **삼성 청년 SW 아카데미 (SSAFY)**|`SSAFY`|
-|23.04.05 ~ 23.05.04| GTQ 자격증(포토샵,일러스트) 실무 활용 |`그린컴퓨터아카데미`|
-|23.04.07 ~ 23.05.04| COS PRO 2급 파이썬(전문코딩능력평가)|`다음잡`|
-|23.02.27 ~ 23.03.28| 어서와 파이썬은 처음이지|`러닝핏`|
-|23.01.19 ~ 23.02.24 | 반도체 설비기술 직무부트캠프|`코멘토`|
-|23.01.18 ~ 23.02.22| 웹 개발 입문|`패스트캠퍼스`|
+#### `2023.07` ~ `2024.07` - **삼성 청년 SW 아카데미 (SSAFY)**
+#### `2023.04` ~ `2023.05` - GTQ 자격증(포토샵,일러스트) 실무 활용 
+#### `2023.01` ~ `2023.02` - 반도체 설비기술 직무부트캠프
 
 <br/>
 <br/>
 
 # 🏆 Award
-### `2024.02.16` - **SSAFY 10기 공통 프로젝트 우수상**
+#### `2024.02.16` - **SSAFY 10기 공통 프로젝트 우수상**
 - 시상 단체 : 삼성 청년 SW 아카데미
-### `2024.04.05` - **SSAFY 10기 특화 프로젝트 우수상**
+#### `2024.04.05` - **SSAFY 10기 특화 프로젝트 우수상**
 - 시상 단체 : 삼성 청년 SW 아카데미
 
 <br/>
 <br/>
 
 # 🏅 Certification
-### **외국어 역량**
+
+#### **개발 역량**
+- `2024.03.10` - PCCP(python) (Lv.4)
+- `2023.06.03` - COS PRO(2급)
+- `2024.04.05` - SQLD
+  
+#### **외국어 역량**
 - `2022.09.03` - TOEIC SPEAKING (IH)
 - `2022.07.24` - TOEIC (800)
 
 
-### **코딩 역량테스트**
-- `2024.03.10` - PCCP(python) (Lv.4)
-- `2023.06.03` - COS PRO(2급)
-
-### **자격증**
-- `2024.04.05` - SQLD
+#### **자격증**
 - `2023.06.16` - GTQ 포토샵/일러스트(1급)
 - `2024.03.13` - 정보처리기사(필기) 
 - `2023.02.08` - 6시그마 (GB)
@@ -91,8 +85,8 @@
 - 기간 : 2024.04.08 - 2023.05.20 (6주)
 - 팀원 : BE 3명, FE 3명
 - github : [가티](https://github.com/yebin113/Gatee)
-- 기술 스택 : <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+- 기술 스택 : <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 - 담당 역할 :
   - **디자인 총괄**
   - **프론트엔드 리더**
@@ -107,7 +101,7 @@
 - 팀원 : BE 3명, FE 3명
 - github : [IDK 은행](https://github.com/HTTP501/idk)
 - 배포 : [idk.apk](https://drive.google.com/file/d/1Z6WpP71_LZiVNF9-aYQj6VPMxDlaKJQa/view?usp=sharing)
-- 기술 스택 : <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo&logo=React&logoColor=black"/><img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=Expo&logoColor=white"/>
+- 기술 스택 : <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo&logo=React&logoColor=black"/><img src="https://img.shields.io/badge/Expo-000000?style=flat&logo=Expo&logoColor=white"/>
 - 담당 역할 :
   - **UI, UX 및 로고, Assets 디자인**
   - **CSS, 로딩 애니메이션**
@@ -124,7 +118,7 @@
 - 기간 : 2024.01.08 ~ 2024.02.16 (7주)
 - 팀원 : BE 3명, FE 3명
 - github : [칩칩포커](https://github.com/chipchippoker/chipchippoker)
-- 기술 스택 : <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+- 기술 스택 : <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 - 담당 역할 :
   - **UI, UX 및 로고, Assets 디자인**
   - **CSS**
@@ -141,7 +135,7 @@
 - 기간 : 2023.11.13 ~ 2023.11.24 (2주)
 - 팀원 : BE + FE 2명
 - github : [README](https://github.com/yebin113/finprdtrecom)
-- 기술 스택 : <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/><img src="https://img.shields.io/badge/Django-0C9D58?style=flat-square&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+- 기술 스택 : <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/><img src="https://img.shields.io/badge/Django-0C9D58?style=flat&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white"/>
 - 담당 역할 :
   - **UI/UX 디자인, CSS**
   - **[BE] 설문조사 기반 금융 상품 추천 알고리즘 API 개발**
@@ -158,7 +152,7 @@
 - 기간 : 2023.10.23 ~ 2023.11.03 (2주)
 - 팀원 : 3명
 - 산출물 : [구글 드라이브](https://docs.google.com/presentation/d/1NotmtCaq_qCo-7PrHzcuQGNhykIHKxb0/edit?rtpof=true&sd=true)
-- 기술 스택 : <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Excel&logoColor=white"/><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+- 기술 스택 : <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Excel&logoColor=white"/><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
 - 담당 역할 :
   - **파이썬과 엑셀을 이용한 데이터 전처리 및 분석**
   - Matplotlib과 태블로우를 이용한 데이터 시각화
