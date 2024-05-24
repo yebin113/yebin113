@@ -10,11 +10,12 @@
 
 # 💻 My Skills 📝 
 ### FE 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
 <br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Expo-000000?style=flat&logo=Expo&logoColor=white"/>
@@ -82,8 +83,7 @@
 
 # 🏆 PJT
 ### 가족 소통 어플리케이션, 가티
-- 기간 : 2024.04.08 - 2023.05.20 (6주)
-- 팀원 : BE 3명, FE 3명
+- 📆 2024.04.08 - 2023.05.20 (6주) 👨‍👨‍👧‍👧 BE 3인 / FE 3인
 - github : [가티](https://github.com/yebin113/Gatee)
 - 기술 스택 : <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
@@ -92,56 +92,58 @@
   - **프론트엔드 리더**
   - 학습 내용, 트러블 슈팅 문서화
   - 푸시 알림 기능 구현
+  - 가족 모의고사, 가족 백과사전 등 시그니처 화면 및 기능 구현
   
 <br/>
 <br/>
 
 ### 나의 지출 관리 도우미, IDK 은행
-- 기간 : 2024.02.19 - 2023.04.05 (7주)
-- 팀원 : BE 3명, FE 3명
+- 📆 2024.02.19 - 2023.04.05 (7주) 👨‍👨‍👧‍👧 BE 3인 / FE 3인
 - github : [IDK 은행](https://github.com/HTTP501/idk)
 - 배포 : [idk.apk](https://drive.google.com/file/d/1Z6WpP71_LZiVNF9-aYQj6VPMxDlaKJQa/view?usp=sharing)
 - 기술 스택 : <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo&logo=React&logoColor=black"/><img src="https://img.shields.io/badge/Expo-000000?style=flat&logo=Expo&logoColor=white"/>
 - 담당 역할 :
-  - **UI, UX 및 로고, Assets 디자인**
-  - **CSS, 로딩 애니메이션**
+  - **디자인 총괄**
+  - **프론트엔드 리더**
   - **컴포넌트 모듈화**
   - 트러블 슈팅 기록
-  - [FE] 비밀번호 검증 
-  - [FE] 입출금, 계좌 이체 기능 
-  - [FE] 자동 이체, 목표 저축 기능 
+  - [FE] 은행 서비스 구현
+    - 입출금 기능 구현
+    - 계좌 이체 기능 구현
+    - 자동 이체 기능 구현
+    - 목표 저축 기능 구현
+    - 비밀번호 검증 기능 구현
   
 <br/>
 <br/>
 
 ### 온라인 화상 인디언 포커 서비스, 칩칩포커
-- 기간 : 2024.01.08 ~ 2024.02.16 (7주)
-- 팀원 : BE 3명, FE 3명
+- 📆 2024.01.08 ~ 2024.02.16 (7주) 👨‍👨‍👧‍👧 BE 3인 / FE 3인
 - github : [칩칩포커](https://github.com/chipchippoker/chipchippoker)
 - 기술 스택 : <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 - 담당 역할 :
-  - **UI, UX 및 로고, Assets 디자인**
-  - **CSS**
+  - **디자인 총괄**
   - **컴포넌트 모듈화**
   - 트러블 슈팅 기록
-  - [FE] WebSocket을 이용한 실시간 서버 통신
-  - [FE] 게임 기능
-  - [FE] face-api를 이용한 감정 인식 기능
+  - [FE] WebSocket을 이용한 실시간 서버 통신 구현
+  - [FE] 게임 기능 구현
+    - 배팅 기능 구현
+    - 라운드 종료 기능 구현
+    - face-api를 이용한 감정 인식 기능 구현
 
 <br/>
 <br/>
 
 ### 금융 상품 추천 서비스, 돈먹는 하마
-- 기간 : 2023.11.13 ~ 2023.11.24 (2주)
-- 팀원 : BE + FE 2명
+- 📆 2023.11.13 ~ 2023.11.24 (2주) 👨‍👨‍👧‍👧 2인
 - github : [README](https://github.com/yebin113/finprdtrecom)
 - 기술 스택 : <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/><img src="https://img.shields.io/badge/Django-0C9D58?style=flat&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white"/>
 - 담당 역할 :
-  - **UI/UX 디자인, CSS**
+  - **디자인 총괄**
   - **[BE] 설문조사 기반 금융 상품 추천 알고리즘 API 개발**
   - [BE] 커뮤니티 CRUD API 개발
   - [FE] API 연동
-  - [FE] 환율 계산기
+  - [FE] 환율 계산기 기능 구현
   - [BE] 더미데이터 생성
   - 트러블슈팅 기록
 
@@ -149,8 +151,7 @@
 <br/>
 
 ### 빅데이터 분석 프로젝트, 밥먹었닝
-- 기간 : 2023.10.23 ~ 2023.11.03 (2주)
-- 팀원 : 3명
+- 📆 2023.10.23 ~ 2023.11.03 (2주) 👨‍👨‍👧‍👧 3인
 - 산출물 : [구글 드라이브](https://docs.google.com/presentation/d/1NotmtCaq_qCo-7PrHzcuQGNhykIHKxb0/edit?rtpof=true&sd=true)
 - 기술 스택 : <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Excel&logoColor=white"/><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
 - 담당 역할 :
