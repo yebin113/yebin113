@@ -90,10 +90,7 @@
 - 담당 역할 :
   - **디자인 총괄**
   - **프론트엔드 리더**
-  - 학습 내용, 트러블 슈팅 문서화
-  - [FE] 푸시 알림 기능 구현
-  - [FE] Axios 인스턴스를 활용한 리프레시 토큰 재발급 구조 세팅
-  - [FE] 무한 스크롤 구현
+
   
 <br/>
 <br/>
@@ -107,13 +104,7 @@
   - **디자인 총괄**
   - **프론트엔드 리더**
   - **컴포넌트 모듈화**
-  - 트러블 슈팅 기록
-  - [FE] 은행 서비스 구현
-    - 입출금 기능 구현
-    - 계좌 이체 기능 구현
-    - 자동 이체 기능 구현
-    - 목표 저축 기능 구현
-    - 비밀번호 검증 기능 구현
+
   
 <br/>
 <br/>
@@ -140,15 +131,9 @@
 - github : [README](https://github.com/yebin113/finprdtrecom)
 - 기술 스택 : <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/><img src="https://img.shields.io/badge/Django-0C9D58?style=flat&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white"/>
 - 담당 역할 :
-  - **디자인 총괄**
-  - **[BE] 설문조사 기반 금융 상품 추천 알고리즘 API 개발**
-  - [BE] 커뮤니티 CRUD Api 개발
-  - [BE] 더미데이터 생성
-  - [BE] 금융상품비교공시 Open Api를 활용한 금융상품 데이터 수집
-  - [FE] API 연동
-  - [FE] 한국수출입은행 환율 정보 Open Api를 활용한 환율 계산기 기능 구현
-  - 트러블슈팅 기록
-
+  - **REST API 구축**
+  - **투자성향 기반 금융 상품 추천 알고리즘 구현**
+  
 <br/>
 <br/>
 
