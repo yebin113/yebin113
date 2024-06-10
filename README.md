@@ -115,13 +115,8 @@
 - 기술 스택 : <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 - 담당 역할 :
   - **디자인 총괄**
-  - **컴포넌트 모듈화**
-  - 트러블 슈팅 기록
-  - [FE] WebSocket을 이용한 실시간 서버 통신 구현
-  - [FE] 게임 기능 구현
-    - 배팅 기능 구현
-    - 라운드 종료 기능 구현
-    - face-api를 이용한 감정 인식 기능 구현
+  - WebSocket을 이용한 실시간 서버 통신 구현
+  - face-api를 이용한 감정 인식 기능 구현
 
 <br/>
 <br/>
