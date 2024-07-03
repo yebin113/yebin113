@@ -111,7 +111,7 @@
 
 ### 온라인 화상 인디언 포커 서비스, 칩칩포커
 - 📆 2024.01.08 ~ 2024.02.16 (7주) 👨‍👨‍👧‍👧 BE 3인 / FE 3인
-- github : [칩칩포커](https://github.com/chipchippoker/chipchippoker)
+- github : [칩칩포커](https://github.com/yebin113/chipchippoker)
 - 기술 스택 : <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 - 담당 역할 :
   - **디자인 총괄**
