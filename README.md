@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qt-217346?style=flat&logo=Qt&logoColor=white"/>
 
 <br/>
 
@@ -69,14 +70,12 @@
 - `2024.04.05` - SQLD
   
 #### **외국어 역량**
-- `2022.09.03` - TOEIC SPEAKING (IH)
+- `2024.03.15` - TOEIC SPEAKING (AL)
 - `2022.07.24` - TOEIC (800)
 
 
 #### **자격증**
 - `2023.06.16` - GTQ 포토샵/일러스트(1급)
-- `2024.03.13` - 정보처리기사(필기) 
-- `2023.02.08` - 6시그마 (GB)
 
 <br/>
 <br/>
